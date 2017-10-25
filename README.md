@@ -9,6 +9,6 @@ Numbered item 3
 
 ![image](https://github.com/410421216/assignment/blob/master/photo.jpg)
 
-| Title  | Column Title 1 | Column Title 1 | Column Title 1 | 
-| Row Title 1 | blah | blah  | blah | 
-| Row Title 1  | blah  | blah  | blah |
+| Title  | Column Title 1 |
+| Row Title 1 | blah | 
+| Row Title 1  | blah  | 
