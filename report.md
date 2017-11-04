@@ -8,6 +8,9 @@
 ![image](https://github.com/410421216/assignment/blob/master/bw_2.jpg)  
 5.summary  
 > 第一次寫關於圖片的程式，學到了怎麼讀圖片，怎麼改圖片。  
+
 > 上網爬了很多文章和教學影片，光是要可以使用opencv就查了好一陣子。  
+
 > 開始寫又出了一堆細節問題，像是沒有Vec1b而是直接用uchar之類的。  
+
 > 看了很多相關教學才完成這次作業。  
